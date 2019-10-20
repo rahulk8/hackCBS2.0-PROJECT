@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1085640155725",
+    "firebase_url": "https://lifegrace1-54bb3.firebaseio.com",
+    "project_id": "lifegrace1-54bb3",
+    "storage_bucket": "lifegrace1-54bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085640155725:android:1f9aa44727cf9dcb",
+        "android_client_info": {
+          "package_name": "in.app.life_grace1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085640155725-9n4sopo8doh45hfcn8gkkfboocqrv2ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmhJQy9pFMmy81VX0Rqd3iuG0H-7L2-KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085640155725-9n4sopo8doh45hfcn8gkkfboocqrv2ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
